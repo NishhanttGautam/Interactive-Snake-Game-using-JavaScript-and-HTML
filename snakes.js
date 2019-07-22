@@ -39,7 +39,7 @@ function init(){
             //var score=5;
             //assuming snake is moving right
             //insertion at head;
-           // nextHeadX=headX+1;
+
            // this.cells.pop();
             //this.cells.unshift({x:nextHeadX,y:headY});
             
